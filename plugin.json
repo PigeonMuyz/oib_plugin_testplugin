@@ -1,0 +1,10 @@
+{
+    "name": "TestPlugin",
+    "version": "1.0.0",
+    "description": "测试插件安装器，以及作为demo示范插件使用",
+    "author": "Claude",
+    "main": "main.py",
+    "requirements": ["aiohttp"],
+    "tags": ["test", "example"],
+    "homepage": "https://github.com/pigeonmuyz/oib_plugin_testplugin"
+}
